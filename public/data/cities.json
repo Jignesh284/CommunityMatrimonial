@@ -1,0 +1,99 @@
+[
+  {
+    "name": "Tehri Garhwal",
+    "location": {
+      "lat": 30.3012,
+      "lng": 78.5661
+    },
+    "imageUrl": "http://www.weekendthrill.com/wp-content/uploads/2016/07/Tehri-Garhwal-compressed.jpg"
+  },
+  {
+    "name": "Udham Singh Nagar",
+    "location": {
+      "lat": 28.9610,
+      "lng": 79.5154
+    },
+    "imageUrl": "http://farm5.staticflickr.com/4142/4859949285_38eebe0336.jpg"
+  },
+  {
+    "name": "Nainital",
+    "location": {
+      "lat": 29.3803,
+      "lng": 79.4636
+    },
+    "imageUrl": "http://cloud.transindiatravels.com/wp-content/uploads/naina-peak-1.jpg"
+  },
+  {
+    "name": "Chamoli",
+    "location": {
+      "lat": 30.2937,
+      "lng": 79.5603
+      
+    },
+    "imageUrl": "http://www.indialine.com/travel/images/hemkundsahib-chamoli.jpg"
+  },
+  {
+    "name": "Bageshwar",
+    "location": {
+      "lat": 29.8404,
+      "lng": 79.7694
+    },
+    "imageUrl": "https://i1.trekearth.com/photos/93629/picture_485.jpg"
+  },
+  {
+    "name": "Uttarkashi",
+    "location": {
+      "lat": 30.7268,
+      "lng": 78.4354
+    },
+    "imageUrl": "https://www.euttaranchal.com/tourism/timthumb.php?src=/tourism/photos/uttarkashi-4511006.jpg&w=620&h=350&q=50"
+  },
+  {
+    "name": "Pauri Garhwal",
+    "location": {
+      "lat": 29.8688,
+      "lng": 78.8383
+    },
+    "imageUrl": "https://www.supercabz.com/albums/APGU0004//14792daa47.jpg"
+  },
+  {
+    "name": "Rudraprayag",
+    "location": {
+      "lat": 30.2844,
+      "lng": 78.9811
+    },
+    "imageUrl": "https://smedia2.intoday.in/aajtak/images/stories/201702/rudraprayag_1486415200_618x347.jpeg"
+  },
+  {
+    "name": "Pithoragarh",
+    "location": {
+      "lat": 30.0815,
+      "lng": 80.3659
+    },
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/08/3f/f8/a3/pithoragarh-fort.jpg"
+  },
+  {
+    "name": "Almora",
+    "location": {
+      "lat": 29.5892,
+      "lng": 79.6467
+    },
+    "imageUrl": "https://images.thrillophilia.com/image/upload/s--sDnxdLUL--/c_fill,f_auto,fl_strip_profile,h_380,q_auto,w_604/v1/images/photos/000/049/829/original/Almora.jpg.jpg?1458182241"
+  },
+  {
+    "name": "Dehradun",
+    "location": {
+      "lat": 30.3165,
+      "lng": 78.0322
+    },
+    "imageUrl": "https://www.trekkinginindia.com/images/har-ki-doon-trek2.jpg"
+  },
+  {
+    "name": "Haridwar",
+    "location": {
+      "lat": 29.9457,
+      "lng": 78.1642
+    },
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUDLQC0iD7QZW5UXHMv_KyAHTdqS7Cwv2pKlWfsW9doCzEV4q1"
+  }
+]

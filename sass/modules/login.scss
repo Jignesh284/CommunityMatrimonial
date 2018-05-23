@@ -1,0 +1,17 @@
+.login-form{
+	
+    margin: 5% 25% 10% 25%;
+	width: 50%;
+	display: inline-block;
+	background-color: white;
+    border: 1px solid $primary-color1;
+    border-radius: 5px;
+    min-width: 500px;
+    box-shadow: 0px 5px 5px 5px rgba(0, 0, 0, 0.1);
+	&__heading{
+		padding: 20px;
+		font-weight: bold;
+		color: $primary-color1;
+	}
+}
+

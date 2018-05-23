@@ -1,0 +1,37 @@
+.profile{
+	&__img{
+		background-color: #9ac400;
+		text-align: center;
+		box-shadow: 0 -15px 15px 15px rgba(0, 0, 0, 0.1);
+	}
+	&__discription{
+		padding: 20px; 
+
+	}
+	&__pic-main{
+		width: 300px;
+		height: 300px;
+		border: 2px solid $primary-black;
+	    margin: 20px;
+	}
+	&__pic-sub1, &__pic-sub2 {
+		width: 150px;
+		height: 150px;
+		border: 1px solid $primary-black;
+		margin-bottom: 50px;
+		margin-left: 5px;	
+	}
+
+	
+}
+
+.heading{
+	text-align: right;
+	font-family: Brandon_bold;
+
+}
+.details {
+	font-size: 22px;
+	text-align: left;
+
+}

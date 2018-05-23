@@ -1,0 +1,54 @@
+.contact-us{
+	
+	&__heading{
+		font-weight: 700;
+		padding: 15px 25px 15px 40px;
+		font-family: Brandon_bold;
+	}
+	&__form{
+		padding: 10px 20px 10px 40px;
+	}
+	&__address{
+
+		padding: 0px 20px 20px 80px;
+		&--details{
+			margin-top: 50px;
+		}	
+	}
+}
+
+.social-media{
+	
+	margin: 30px 0px;
+	&__icon{
+		width: 60px;
+		height: 60px;
+		display: inline-block;
+		&--facebook{
+			background: url(../images/facebook.png);
+			background-size: 60px 60px;
+
+		}
+		&--youtube{
+			background: url(../images/youtube.png);
+			background-size: 60px 60px;
+
+		}
+		&--twitter{
+			background: url(../images/twitter.png);
+			background-size: 60px 60px;
+
+		}
+		&--instagram{
+			background: url(../images/instagram.png);
+			background-size: 60px 60px;
+
+		}
+	}
+}
+.form-group--inline{
+	display: inline-block;
+}
+#message{
+	resize: none;
+}

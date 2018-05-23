@@ -1,0 +1,22 @@
+<header class="header">
+  <a class="header__logo" href="/"></a>
+  <ul class="header__menu-list">
+    <li class="header__menu-list__list-item"><a href="/" class="header__menu-list__list-item__link">Home</a></li>
+    <li class="header__menu-list__list-item"><a href="#" class="header__menu-list__list-item__link">Services</a></li>
+    <li class="header__menu-list__list-item"><a href="/gallery" class="header__menu-list__list-item__link">Gallery</a></li>
+    <li class="header__menu-list__list-item"><a href="#" class="header__menu-list__list-item__link">Contact Us</a></li>
+    {{#if user}}
+    	<li class="header__menu-list__list-item"><a href="/user/logout" class="header__menu-list__list-item__link"><i class="fas fa-power-off header-fontawsome"></i> Logout</a></li>
+       <li class="header__menu-list__list-item"><a href="/user/profile" class="header__menu-list__list-item__link"><i class="fas fa-user-circle header-fontawsome"></i> {{user.name}}</a></li>
+    
+   {{else}}
+    <li class="header__menu-list__list-item"><a href="/user/login" class="header__menu-list__list-item__link"><i class="fas fa-sign-in-alt header-fontawsome"></i> Login</a></li>
+    <li class="header__menu-list__list-item"><a href="/user/registration" class="header__menu-list__list-item__link"><i class="fas fa-edit header-fontawsome"></i> Registration</a></li>
+   {{/if}}
+
+    
+
+
+
+  </ul>
+</header>

@@ -1,0 +1,44 @@
+.banner-display{
+	width: 100%;
+	height: 600px;
+	font-size: 0;
+    white-space: nowrap;
+    border-bottom: 2px solid $primary-color1;
+
+}
+.map{
+	width: 70%;
+	height: 100%;
+	min-width: 600px;
+	display: inline-block;
+}
+ .sidenav{
+ 	position: absolute;
+ 	width: 30%;
+ 	height: 600px;
+ 	display: inline-block;
+ 	background-color: $primary-color1;
+ 	font-size: 15px;
+ 	color: white;
+ 	box-shadow: 0 -15px 15px 15px rgba(0,0,0,.10);
+
+ 	
+ 	&__city-list{
+ 		display: inline-block;
+ 		width: 50%;
+ 		padding: 0;
+ 	
+	 	&__item{
+	 		font-weight: 700;
+	 		color: $primary-black;
+	 		padding: 10px;
+	 		display: block;
+	 	
+	 		&:hover, &--selected {
+		 		color: white;
+		 		background-color: $primary-black;	
+	 		}
+	 		
+	 	}	
+	}
+ }
